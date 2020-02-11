@@ -1,10 +1,10 @@
 {
-  "name": "cordova-plugin-camera",
-  "version": "4.1.1-dev",
+  "name": "cordova-plugin-konnect-camera",
+  "version": "4.1.2",
   "description": "Cordova Camera Plugin",
   "types": "./types/index.d.ts",
   "cordova": {
-    "id": "cordova-plugin-camera",
+    "id": "cordova-plugin-konnect-camera",
     "platforms": [
       "android",
       "ios",
@@ -15,10 +15,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/apache/cordova-plugin-camera"
+    "url": "https://github.com/konnectappdev/cordova-plugin-camera"
   },
   "bugs": {
-    "url": "https://github.com/apache/cordova-plugin-camera/issues"
+    "url": "https://github.com/konnectappdev/cordova-plugin-camera/issues"
   },
   "keywords": [
     "cordova",
